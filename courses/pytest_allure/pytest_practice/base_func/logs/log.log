@@ -1,0 +1,586 @@
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：1, 1, 期望结果是 2 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 2 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：-0.01, 0.02, 期望结果是 0.01 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 0.01 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：10, 0.02, 期望结果是 10.02 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 10.02 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：98.99, 99, 期望结果是 197.99 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 197.99 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：99, 98.99, 期望结果是 197.99 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 197.99 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：-98.99, -99, 期望结果是 -197.99 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 -197.99 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：99.01, 0, 期望结果是 参数大小超出范围 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：-99.01, -1, 期望结果是 参数大小超出范围 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：2, 99.01, 期望结果是 参数大小超出范围 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：1, -99.01, 期望结果是 参数大小超出范围 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:38:34] [INFO] [test_add_param.py]/[line: 48]/[test_add_case12] 输入数据：文, 9.3, 期望结果是 TypeError 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:38:34] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：1, 1, 期望结果是 2 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 2 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：-0.01, 0.02, 期望结果是 0.01 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 0.01 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：10, 0.02, 期望结果是 10.02 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 10.02 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：98.99, 99, 期望结果是 197.99 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 197.99 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：99, 98.99, 期望结果是 197.99 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 197.99 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：-98.99, -99, 期望结果是 -197.99 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 -197.99 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：99.01, 0, 期望结果是 参数大小超出范围 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：-99.01, -1, 期望结果是 参数大小超出范围 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：2, 99.01, 期望结果是 参数大小超出范围 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：1, -99.01, 期望结果是 参数大小超出范围 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-01 20:52:06] [INFO] [test_add_param.py]/[line: 48]/[test_add_case12] 输入数据：文, 9.3, 期望结果是 TypeError 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-01 20:52:06] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:23] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：99.01, 0, 期望结果是 参数大小超出范围 
+[2022-11-02 20:14:23] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:23] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：-99.01, -1, 期望结果是 参数大小超出范围 
+[2022-11-02 20:14:23] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:23] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:24] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：2, 99.01, 期望结果是 参数大小超出范围 
+[2022-11-02 20:14:24] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:14:24] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:24] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:24] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：1, -99.01, 期望结果是 参数大小超出范围 
+[2022-11-02 20:14:24] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:14:24] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:24] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:31] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：1, 1, 期望结果是 2 
+[2022-11-02 20:14:31] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 2 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:31] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：-0.01, 0.02, 期望结果是 0.01 
+[2022-11-02 20:14:31] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 0.01 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:31] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：10, 0.02, 期望结果是 10.02 
+[2022-11-02 20:14:31] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 10.02 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:31] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：98.99, 99, 期望结果是 197.99 
+[2022-11-02 20:14:31] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 197.99 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:31] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：99, 98.99, 期望结果是 197.99 
+[2022-11-02 20:14:31] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 197.99 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:31] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：-98.99, -99, 期望结果是 -197.99 
+[2022-11-02 20:14:31] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 -197.99 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:31] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:37] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：1, 1, 期望结果是 2 
+[2022-11-02 20:14:37] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 2 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:37] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：-0.01, 0.02, 期望结果是 0.01 
+[2022-11-02 20:14:37] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 0.01 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:37] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：10, 0.02, 期望结果是 10.02 
+[2022-11-02 20:14:37] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 10.02 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:37] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：98.99, 99, 期望结果是 197.99 
+[2022-11-02 20:14:37] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 197.99 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:37] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：99, 98.99, 期望结果是 197.99 
+[2022-11-02 20:14:37] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 197.99 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:37] [INFO] [test_add_param.py]/[line: 19]/[test_add_case1] 输入数据：-98.99, -99, 期望结果是 -197.99 
+[2022-11-02 20:14:37] [INFO] [test_add_param.py]/[line: 22]/[test_add_case1] 实际结果为 -197.99 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:37] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-02 20:14:45] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-02 20:14:45] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:14:45] [INFO] [test_add_param.py]/[line: 48]/[test_add_case12] 输入数据：文, 9.3, 期望结果是 TypeError 
+[2022-11-02 20:14:45] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:14:45] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：1, 1, 期望结果是 2 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 2 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：-0.01, 0.02, 期望结果是 0.01 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 0.01 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：10, 0.02, 期望结果是 10.02 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 10.02 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：98.99, 99, 期望结果是 197.99 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 197.99 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：99, 98.99, 期望结果是 197.99 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 197.99 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：-98.99, -99, 期望结果是 -197.99 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 -197.99 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：99.01, 0, 期望结果是 参数大小超出范围 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：-99.01, -1, 期望结果是 参数大小超出范围 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：2, 99.01, 期望结果是 参数大小超出范围 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：1, -99.01, 期望结果是 参数大小超出范围 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:40:07] [INFO] [test_add_param.py]/[line: 49]/[test_add_case12] 输入数据：文, 9.3, 期望结果是 TypeError 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:40:07] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：1, 1, 期望结果是 2 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 2 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：-0.01, 0.02, 期望结果是 0.01 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 0.01 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：10, 0.02, 期望结果是 10.02 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 10.02 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：98.99, 99, 期望结果是 197.99 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 197.99 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：99, 98.99, 期望结果是 197.99 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 197.99 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：-98.99, -99, 期望结果是 -197.99 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 -197.99 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：99.01, 0, 期望结果是 参数大小超出范围 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：-99.01, -1, 期望结果是 参数大小超出范围 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：2, 99.01, 期望结果是 参数大小超出范围 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：1, -99.01, 期望结果是 参数大小超出范围 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:44:42] [INFO] [test_add_param.py]/[line: 49]/[test_add_case12] 输入数据：文, 9.3, 期望结果是 TypeError 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:44:42] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：1, 1, 期望结果是 2 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 2 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：-0.01, 0.02, 期望结果是 0.01 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 0.01 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：10, 0.02, 期望结果是 10.02 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 10.02 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：98.99, 99, 期望结果是 197.99 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 197.99 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：99, 98.99, 期望结果是 197.99 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 197.99 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 20]/[test_add_case1] 输入数据：-98.99, -99, 期望结果是 -197.99 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 23]/[test_add_case1] 实际结果为 -197.99 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：99.01, 0, 期望结果是 参数大小超出范围 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：-99.01, -1, 期望结果是 参数大小超出范围 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：2, 99.01, 期望结果是 参数大小超出范围 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：1, -99.01, 期望结果是 参数大小超出范围 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 20:50:16] [INFO] [test_add_param.py]/[line: 50]/[test_add_case12] 输入数据：文, 9.3, 期望结果是 TypeError 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 20:50:16] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-02 21:02:20] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-02 21:02:20] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:02:20] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 输入数据：99.01, 0, 期望结果是 参数大小超出范围 
+[2022-11-02 21:02:20] [INFO] [test_add_param.py]/[line: 38]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 21:02:20] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:02:20] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:02:20] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 输入数据：-99.01, -1, 期望结果是 参数大小超出范围 
+[2022-11-02 21:02:20] [INFO] [test_add_param.py]/[line: 38]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 21:02:20] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:02:20] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:02:20] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 输入数据：2, 99.01, 期望结果是 参数大小超出范围 
+[2022-11-02 21:02:20] [INFO] [test_add_param.py]/[line: 38]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 21:02:20] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:02:20] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:02:20] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 输入数据：1, -99.01, 期望结果是 参数大小超出范围 
+[2022-11-02 21:02:20] [INFO] [test_add_param.py]/[line: 38]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 21:02:20] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:02:20] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-02 21:03:17] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-02 21:03:17] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:03:17] [INFO] [test_add_param.py]/[line: 21]/[test_add_case1] 输入数据：1, 1, 期望结果是 2 
+[2022-11-02 21:03:17] [INFO] [test_add_param.py]/[line: 24]/[test_add_case1] 实际结果为 2 
+[2022-11-02 21:03:17] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:03:17] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:03:17] [INFO] [test_add_param.py]/[line: 21]/[test_add_case1] 输入数据：-0.01, 0.02, 期望结果是 0.01 
+[2022-11-02 21:03:17] [INFO] [test_add_param.py]/[line: 24]/[test_add_case1] 实际结果为 0.01 
+[2022-11-02 21:03:17] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:03:17] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:03:17] [INFO] [test_add_param.py]/[line: 21]/[test_add_case1] 输入数据：10, 0.02, 期望结果是 10.02 
+[2022-11-02 21:03:17] [INFO] [test_add_param.py]/[line: 24]/[test_add_case1] 实际结果为 10.02 
+[2022-11-02 21:03:17] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:03:17] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:03:17] [INFO] [test_add_param.py]/[line: 21]/[test_add_case1] 输入数据：98.99, 99, 期望结果是 197.99 
+[2022-11-02 21:03:17] [INFO] [test_add_param.py]/[line: 24]/[test_add_case1] 实际结果为 197.99 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:03:18] [INFO] [test_add_param.py]/[line: 21]/[test_add_case1] 输入数据：99, 98.99, 期望结果是 197.99 
+[2022-11-02 21:03:18] [INFO] [test_add_param.py]/[line: 24]/[test_add_case1] 实际结果为 197.99 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:03:18] [INFO] [test_add_param.py]/[line: 21]/[test_add_case1] 输入数据：-98.99, -99, 期望结果是 -197.99 
+[2022-11-02 21:03:18] [INFO] [test_add_param.py]/[line: 24]/[test_add_case1] 实际结果为 -197.99 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:03:18] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 输入数据：99.01, 0, 期望结果是 参数大小超出范围 
+[2022-11-02 21:03:18] [INFO] [test_add_param.py]/[line: 38]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:03:18] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 输入数据：-99.01, -1, 期望结果是 参数大小超出范围 
+[2022-11-02 21:03:18] [INFO] [test_add_param.py]/[line: 38]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:03:18] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 输入数据：2, 99.01, 期望结果是 参数大小超出范围 
+[2022-11-02 21:03:18] [INFO] [test_add_param.py]/[line: 38]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-02 21:03:18] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 输入数据：1, -99.01, 期望结果是 参数大小超出范围 
+[2022-11-02 21:03:18] [INFO] [test_add_param.py]/[line: 38]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-02 21:03:18] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-07 20:12:52] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-07 20:12:52] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:12:52] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：99.01, 0, 期望结果是 参数大小超出范围 
+[2022-11-07 20:12:52] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:12:52] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:12:52] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:12:52] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：-99.01, -1, 期望结果是 参数大小超出范围 
+[2022-11-07 20:12:52] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:12:53] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:12:53] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:12:53] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：2, 99.01, 期望结果是 参数大小超出范围 
+[2022-11-07 20:12:53] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:12:53] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:12:53] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:12:53] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：1, -99.01, 期望结果是 参数大小超出范围 
+[2022-11-07 20:12:53] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:12:53] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:12:53] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-07 20:14:24] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-07 20:14:24] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:14:24] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：99.01, 0, 期望结果是 参数大小超出范围 
+[2022-11-07 20:14:24] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:14:24] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:14:24] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:14:24] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：-99.01, -1, 期望结果是 参数大小超出范围 
+[2022-11-07 20:14:24] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:14:24] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:14:24] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:14:24] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：2, 99.01, 期望结果是 参数大小超出范围 
+[2022-11-07 20:14:24] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:14:24] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:14:24] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:14:24] [INFO] [test_add_param.py]/[line: 33]/[test_add_case8] 输入数据：1, -99.01, 期望结果是 参数大小超出范围 
+[2022-11-07 20:14:24] [INFO] [test_add_param.py]/[line: 36]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:14:24] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:14:24] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-07 20:16:24] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-07 20:16:24] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:16:24] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：99.01, 0, 期望结果是 参数大小超出范围 
+[2022-11-07 20:16:24] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:16:24] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:16:24] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:16:24] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：-99.01, -1, 期望结果是 参数大小超出范围 
+[2022-11-07 20:16:24] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:16:24] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:16:24] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:16:24] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：2, 99.01, 期望结果是 参数大小超出范围 
+[2022-11-07 20:16:24] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:16:24] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:16:24] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:16:24] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：1, -99.01, 期望结果是 参数大小超出范围 
+[2022-11-07 20:16:24] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:16:24] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:16:24] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-07 20:18:32] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-07 20:18:32] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:18:32] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：99.01, 0, 期望结果是 参数大小超出范围 
+[2022-11-07 20:18:32] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:18:32] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:18:32] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:18:32] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：-99.01, -1, 期望结果是 参数大小超出范围 
+[2022-11-07 20:18:32] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:18:32] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:18:32] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:18:32] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：2, 99.01, 期望结果是 参数大小超出范围 
+[2022-11-07 20:18:32] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:18:32] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:18:32] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:18:32] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：1, -99.01, 期望结果是 参数大小超出范围 
+[2022-11-07 20:18:32] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:18:32] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:18:32] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-07 20:22:54] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-07 20:22:54] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:22:54] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：99.01, 0, 期望结果是 参数大小超出范围 
+[2022-11-07 20:22:54] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:22:54] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:22:54] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:22:54] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：-99.01, -1, 期望结果是 参数大小超出范围 
+[2022-11-07 20:22:54] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:22:54] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:22:54] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:22:54] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：2, 99.01, 期望结果是 参数大小超出范围 
+[2022-11-07 20:22:54] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:22:54] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:22:54] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-07 20:22:54] [INFO] [test_add_param.py]/[line: 32]/[test_add_case8] 输入数据：1, -99.01, 期望结果是 参数大小超出范围 
+[2022-11-07 20:22:54] [INFO] [test_add_param.py]/[line: 35]/[test_add_case8] 实际结果为 参数大小超出范围 
+[2022-11-07 20:22:54] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-07 20:22:54] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-08 20:11:58] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-08 20:11:58] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:11:58] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:11:58] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:11:58] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:11:58] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:11:58] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:11:58] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:11:58] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:11:58] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-08 20:17:17] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-08 20:17:17] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:17:17] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:17:17] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:17:17] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:17:17] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:17:17] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:17:17] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:17:17] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:17:17] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-08 20:17:43] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-08 20:17:43] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:17:43] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:17:43] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:17:43] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:17:43] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:17:43] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:17:43] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:17:43] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:17:43] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-08 20:18:14] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-08 20:18:14] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:18:14] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:18:14] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:18:14] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:18:14] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:18:14] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:18:14] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-08 20:18:14] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-08 20:18:14] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-11 15:32:03] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-11 15:32:03] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-11 15:32:03] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-11 15:32:03] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
+[2022-11-11 15:36:06] [INFO] [base.py]/[line: 8]/[setup_class] 实例化 calc 对象 
+[2022-11-11 15:36:06] [INFO] [base.py]/[line: 15]/[setup] 开始计算 
+[2022-11-11 15:36:06] [INFO] [base.py]/[line: 18]/[teardown] 结束计算 
+[2022-11-11 15:36:06] [INFO] [base.py]/[line: 12]/[teardown_class] 结束测试 
