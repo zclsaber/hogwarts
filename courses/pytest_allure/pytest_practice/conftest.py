@@ -1,5 +1,5 @@
 from typing import List
-
+from .base_func.log_util import logger
 import pytest
 
 
@@ -27,3 +27,9 @@ def pytest_addoption(parser):
 @pytest.fixture(scope='session')
 def addoption(request):
     return request.config.getoption('--env', default='test')
+
+
+@pytest.fixture(autouse=True, scope='session')
+def clear_data():
+    yield
+    logger.info('clear all data...')
