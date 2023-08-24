@@ -88,11 +88,10 @@ def create_zone(url, view_name, zone_name):
         "zone_type": "auth",
         "name": zone_name,
         "owners": [
-            "local.masterha",
-            "local.slve81",
-            "local.slave89oe",
-            "local.slave59",
-            "local.slave58kl86"
+            "local.ha",
+            "local.masteha",
+            "local.slave89_oe",
+            "local.bk46_arm"
         ],
         "server_type": "master",
         "default_ttl": "3600",
@@ -126,11 +125,10 @@ def create_view(url, view_name):
         "comment": "",
         "name": view_name,
         "owners": [
-            "local.masterha",
-            "local.slve81",
-            "local.slave89oe",
-            "local.slave59",
-            "local.slave58kl86"
+            "local.ha",
+            "local.masteha",
+            "local.slave89_oe",
+            "local.bk46_arm"
         ],
         "acls": [
             "acl_all"
@@ -165,7 +163,7 @@ def int2ip(num):
     hexIP = str('%08x' % num)
     return str("%i.%i.%i.%i" % (int(hexIP[0:2], 16), int(hexIP[2:4], 16), int(hexIP[4:6], 16), int(hexIP[6:8], 16)))
 
-def add_view_zone_rr(url, view_num, zone_num, rr_num):
+def add_view_zone_rr(url, view_num, zone_num, rr_num, interval):
     for i in range(1, view_num+1):
         view_name = "zcl_" + str(i)
         create_view(url, view_name)
@@ -176,9 +174,9 @@ def add_view_zone_rr(url, view_num, zone_num, rr_num):
                 rr_name = "rr" + str(k)
                 record = [int2ip(ip2int("1.1.1.1") + k)]
                 create_rr(url, view_name, zone_name, rr_name, "A", record)
-                time.sleep(1)
+                time.sleep(interval)
 
-urlbase = "https://10.2.44.80:20120"
+urlbase = "https://10.2.44.81:20120"
 
 headers = {
       'Authorization': 'Basic YWRtaW46YWRtaW4=',
@@ -212,4 +210,4 @@ zone = "test.com"
 #         print(add_massive_rrs(urlbase, file_name, view, zone))
 
 # add_protected_domain(urlbase, "com", "test", number=20001)
-add_view_zone_rr(urlbase, 200, 50, 1)
+add_view_zone_rr(urlbase, 200, 50, 1, 4)
