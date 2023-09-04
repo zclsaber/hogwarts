@@ -106,7 +106,8 @@ def calculate_result(files: list, sheet_name='Sheet1', column_index=1, percent=0
         print("\n")
 
 input = r"C:\Users\fu\PycharmProjects\pythonProject\common_tools\cmb_stability.log"
-output = r"C:\Users\fu\Downloads\cmb_latency_20230803.csv"
+input2 = r"C:\Users\fu\Downloads\cmb_stability.log"
+output = r"C:\Users\fu\Downloads\cmb_latency_20230830_1.csv"
 
 files = ['第一轮-70%.xlsx', '第一轮-80%.xlsx', '第一轮-90%.xlsx', '第一轮-95%.xlsx', '第二轮-80%.xlsx',
          '第二轮-90%.xlsx', '第二轮-95%.xlsx', '第三轮-80%.xlsx', '第三轮-90%.xlsx', '第三轮-95%.xlsx']
@@ -118,6 +119,12 @@ files4 = ['721-70%.xlsx', '721-80%.xlsx', '721-90%.xlsx', '721-95%.xlsx', '724-7
           '724-90%.xlsx', '724-95%.xlsx', '727-70%.xlsx', '727-80%.xlsx', '727-90%.xlsx', '727-95%.xlsx',
           '730-70%.xlsx', '730-80%.xlsx', '730-90%.xlsx', '730-95%.xlsx', '802-70%.xlsx', '802-80%.xlsx',
           '802-90%.xlsx', '802-95%.xlsx']
+files5 = ['804-70%.xlsx', '807-70%.xlsx', '807-80%.xlsx',
+          '807-90%.xlsx', '807-95%.xlsx', '810-70%.xlsx', '810-80%.xlsx', '810-90%.xlsx', '810-95%.xlsx',
+          '813-70%.xlsx', '813-80%.xlsx', '813-90%.xlsx', '813-95%.xlsx', '816-70%.xlsx', '816-80%.xlsx',
+          '816-90%.xlsx', '816-95%.xlsx', '819-70%.xlsx', '819-80%.xlsx', '819-90%.xlsx', '819-95%.xlsx',
+          '822-70%.xlsx', '822-80%.xlsx', '822-90%.xlsx', '822-95%.xlsx', '824-70%.xlsx', '824-80%.xlsx',
+          '824-90%.xlsx', '824-95%.xlsx']
 
-# get_latency(input, output)
-calculate_result(files4)
+# get_latency(input2, output)
+calculate_result(files5)
