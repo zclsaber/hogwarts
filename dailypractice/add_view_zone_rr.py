@@ -82,17 +82,12 @@ def add_protected_domain(urlbase, name, domaincategory, number=1):
             response = requests.request("POST", url, data=payload, headers=headers, verify=False)
             print(response.status_code)
 
-def create_zone(url, view_name, zone_name):
+def create_zone(url, view_name, zone_name, owners):
     url_zone = url + f"/views/{view_name}/zones"
     payload_keys = json.dumps({
         "zone_type": "auth",
         "name": zone_name,
-        "owners": [
-            "local.ha",
-            "local.masteha",
-            "local.slave89_oe",
-            "local.bk46_arm"
-        ],
+        "owners": owners,
         "server_type": "master",
         "default_ttl": "3600",
         "slaves": [],
@@ -119,19 +114,14 @@ def create_rr(url, view_name, zone_name, name, rtype, value):
     })
     response = requests.request("POST", url_rr, headers=headers, data=payload_keys, verify=False)
 
-def create_view(url, view_name):
+def create_view(url, view_name, owners):
     url_views = url + "/views"
     payload_keys = json.dumps({
         "comment": "",
         "name": view_name,
-        "owners": [
-            "local.ha",
-            "local.masteha",
-            "local.slave89_oe",
-            "local.bk46_arm"
-        ],
+        "owners": owners,
         "acls": [
-            "acl_all"
+
         ],
         "black_acls": [],
         "filter_aaaa": "no",
@@ -163,23 +153,24 @@ def int2ip(num):
     hexIP = str('%08x' % num)
     return str("%i.%i.%i.%i" % (int(hexIP[0:2], 16), int(hexIP[2:4], 16), int(hexIP[4:6], 16), int(hexIP[6:8], 16)))
 
-def add_view_zone_rr(url, view_num, zone_num, rr_num, interval):
+def add_view_zone_rr(url, view_num, zone_num, rr_num, interval, owners):
     for i in range(1, view_num+1):
         view_name = "zcl_" + str(i)
-        create_view(url, view_name)
+        create_view(url, view_name, owners)
         for j in range(1, zone_num+1):
             zone_name = "comz_" + str(j)
-            create_zone(url, view_name, zone_name)
+            create_zone(url, view_name, zone_name, owners)
             for k in range(1, rr_num+1):
                 rr_name = "rr" + str(k)
                 record = [int2ip(ip2int("1.1.1.1") + k)]
                 create_rr(url, view_name, zone_name, rr_name, "A", record)
-                time.sleep(interval)
+            time.sleep(interval)
 
-urlbase = "https://10.2.44.81:20120"
+urlbase = "https://10.2.45.29:20120"
 
 headers = {
       'Authorization': 'Basic YWRtaW46YWRtaW4=',
+      # 'Authorization': 'Basic YWRtaW4xOkFkbWluQDEyMw==',
       'Content-Type': 'application/json'
     }
 
@@ -192,6 +183,8 @@ headerlines = [["记录名称", "TTL", "记录类型", "记录值", "是否启�
 view = "view_zcl"
 zone = "test.com"
 
+for i in range(1, 11):
+    create_view(urlbase, f"view{i}", ["local.master", "local.t300"])
 # for i in range(2, 5001):
 #     if i == 1:
 #         start = 20000 * (i-1) + 1
@@ -208,6 +201,10 @@ zone = "test.com"
 #         file_name = r"C:\Users\fu\Downloads" + f"\\test.com-tmp.csv"
 #         fulfill_csv(file_name, [headerlines[0],], start, end - 1, add_head=True)
 #         print(add_massive_rrs(urlbase, file_name, view, zone))
+owners = [
+    "local.master",
+    "local.slave"
+]
 
 # add_protected_domain(urlbase, "com", "test", number=20001)
-add_view_zone_rr(urlbase, 200, 50, 1, 4)
+# add_view_zone_rr(urlbase, 100, 100, 1, 5, owners)
