@@ -1,0 +1,5 @@
+[32mINFO    [0m courses.pytest_allure.pytest_practice.base_func.log_util:base.py:8 实例化 calc 对象
+[32mINFO    [0m courses.pytest_allure.pytest_practice.base_func.log_util:base.py:15 开始计算
+[32mINFO    [0m courses.pytest_allure.pytest_practice.base_func.log_util:test_add_param.py:21 输入数据：1, 1, 期望结果是 2
+[32mINFO    [0m courses.pytest_allure.pytest_practice.base_func.log_util:test_add_param.py:24 实际结果为 2
+[32mINFO    [0m courses.pytest_allure.pytest_practice.base_func.log_util:base.py:18 结束计算

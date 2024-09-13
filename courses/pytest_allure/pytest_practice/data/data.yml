@@ -1,0 +1,18 @@
+# [1, 1, 1], [-0.01, -0.02, 0.5], [-0.01, 0.02, -0.5], [10, 0.02, 500]
+add:
+  P0:
+    data:
+      - [1, 1, 1]
+      - [-0.01, -0.02, 0.5]
+      - [-0.01, 0.02, -0.5]
+    # ['整数int', '浮点float', '负浮点minus float', '整浮int float']
+    ids:
+      - 整数int
+      - 浮点float
+      - 负浮点minus float
+  P1:
+    data:
+      - [10, 0, ZeroDivisionError]
+    # ['整数int', '浮点float', '负浮点minus float', '整浮int float']
+    ids:
+      - 被除数为0
